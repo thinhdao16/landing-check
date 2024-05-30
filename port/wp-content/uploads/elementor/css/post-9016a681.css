@@ -226,7 +226,7 @@
     --container-widget-flex-grow: 0;
     --container-widget-align-self: initial;
     --background-transition: 0.3s;
-    --padding-top: var(--huge-space);
+    /* --padding-top: var(--huge-space); */
     --padding-bottom: var(--huge-space);
     --padding-left: var(--global-padding-content);
     --padding-right: var(--global-padding-content);
