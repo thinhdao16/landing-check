@@ -90,7 +90,7 @@
     line-height: var(--e-global-typography-94a6ced-line-height);
     letter-spacing: var(--e-global-typography-94a6ced-letter-spacing);
     word-spacing: var(--e-global-typography-94a6ced-word-spacing);
-    color: var(--e-global-color-text);
+    /* color: var(--e-global-color-text); */
 }
 
 .elementor-5088 .elementor-element.elementor-element-9211b05 a {

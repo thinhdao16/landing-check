@@ -1,1 +1,46 @@
-.elementor-7665 .elementor-element.elementor-element-006ba11{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:var(--medium-space) 0;--background-transition:0.3s;--margin-top:0;--margin-bottom:var(--huge-space);--margin-left:0;--margin-right:0;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7665 .elementor-element.elementor-element-fb43ff0 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-7665 .elementor-element.elementor-element-80cb312{--grid-columns:3;--grid-column-gap:var(--big-space);}@media(max-width:1024px){.elementor-7665 .elementor-element.elementor-element-80cb312{--grid-columns:2;}}@media(max-width:767px){.elementor-7665 .elementor-element.elementor-element-006ba11{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-7665 .elementor-element.elementor-element-80cb312{--grid-columns:1;}}
+.elementor-7665 .elementor-element.elementor-element-006ba11 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --gap: var(--medium-space) 0;
+    --background-transition: 0.3s;
+    --margin-top: 0;
+    --margin-bottom: var(--huge-space);
+    --margin-left: 0;
+    --margin-right: 0;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-7665 .elementor-element.elementor-element-fb43ff0>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-7665 .elementor-element.elementor-element-80cb312 {
+    --grid-columns: 3;
+    --grid-column-gap: var(--big-space);
+}
+
+@media(max-width:1024px) {
+    .elementor-7665 .elementor-element.elementor-element-80cb312 {
+        --grid-columns: 2;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-7665 .elementor-element.elementor-element-006ba11 {
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-7665 .elementor-element.elementor-element-80cb312 {
+        --grid-columns: 1;
+    }
+}

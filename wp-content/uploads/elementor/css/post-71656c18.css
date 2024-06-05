@@ -60,7 +60,7 @@
 
 .elementor-7165 .elementor-element.elementor-element-3a7f54a:not(.elementor-motion-effects-element-type-background),
 .elementor-7165 .elementor-element.elementor-element-3a7f54a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F7F8FD;
+    background-color: var(--e-global-color-secondary);
 }
 
 .elementor-7165 .elementor-element.elementor-element-3a7f54a,
@@ -228,7 +228,7 @@
 
 .elementor-7165 .elementor-element.elementor-element-61a4d44:not(.elementor-motion-effects-element-type-background),
 .elementor-7165 .elementor-element.elementor-element-61a4d44>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F7F8FD;
+    background-color: var(--e-global-color-secondary);
 }
 
 .elementor-7165 .elementor-element.elementor-element-61a4d44,
