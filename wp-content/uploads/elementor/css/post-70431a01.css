@@ -30,7 +30,7 @@
 
 .elementor-7043 .elementor-element.elementor-element-5f78198 {
     --display: flex;
-    --justify-content: space-between;
+    /* --justify-content: space-between; */
     --gap: 10px 10px;
     --background-transition: 0.3s;
     --padding-top: 0px;
