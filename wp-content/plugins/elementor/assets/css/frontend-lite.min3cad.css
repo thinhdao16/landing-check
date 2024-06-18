@@ -1732,7 +1732,8 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 .elementor-grid {
     display: grid;
     grid-column-gap: var(--grid-column-gap);
-    grid-row-gap: var(--grid-row-gap)
+    /* grid-row-gap: var(--grid-row-gap) */
+    grid-row-gap: 64px
 }
 
 .elementor-grid .elementor-grid-item {
